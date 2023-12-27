@@ -1,0 +1,155 @@
+.headsec1{
+
+    width: 100%;
+    
+  
+  }
+.navcon1 {
+    width: 45%;
+     display: flex;
+     list-style-type: none;
+    margin-left: -28px;
+     padding-top: 5px;
+  }
+  .navcon1 li {
+    font-size: 25px;
+    
+     font-family:  'Open Sans';
+     
+  }
+  .navcon1 li a {
+     display: block;
+     text-align: center;
+     padding: 9px 22px;
+     text-decoration: none;
+  
+     margin: 5px;
+  }
+  .navcon1 li a:hover {
+     color:#BA5D2C;
+  }
+  .logoh1{
+    
+    text-shadow: 0px 0px 3px #69849D;
+    font-size:50px;
+    
+    font-family: 'Helvetica Neue';
+    font-style: italic;
+    text-align: center;
+  }
+  .side-menu{
+    width:20%;
+   
+  }
+  .sec-1{
+   padding-top: 50px;
+    display: flex;
+    margin: auto;
+    
+  }
+  .searchin{
+    width:160px;
+    height: 30px;
+    font-size: 16px;
+    
+    border: none;
+    border-radius: 5px;
+    padding-left: 5px;
+  }
+  .seccatalog{
+    
+   margin-left: 120px;
+  
+  
+  }
+  .catalog{
+    width:80%;
+    display: flex;
+    
+    gap: 20px;
+    justify-content: center;
+   
+  }
+  
+  .side-menu li{
+    list-style: none;
+    padding-left: 5px;
+    line-height: 30px;
+  }
+  .card1{
+    height: 250px;
+     width:300px;
+     display: flex;
+     justify-content: center;
+     flex-flow: column;
+     text-align: center;
+     box-sizing: border-box;
+     margin-bottom: 40px;
+    
+    }
+    .cardimages{
+        position: relative;
+        height: 250px;
+        width:300px;
+       border-radius: 10px;
+        background-size: cover;
+        background-position: center;
+    }
+    .cardimage2{
+      background-image: url('/images/product-9.jpeg');
+    }
+    .cardimage1{
+        
+        background-image: url('/images/product-1.jpeg');
+      
+    }
+    .cardimage3{
+        
+      background-image: url('/images/product-4.jpeg');
+    
+  }
+  .headsec3{
+  
+  margin: auto;
+  }
+  .icon1{
+    position: relative;
+    padding-top: 17px;
+    font-size:30px;
+    font-weight: bold; 
+    padding-right: 10px;
+  }
+  .logo1{
+    width:55%;
+    align-items: center;
+     display: flex;
+     gap: 433px;
+   
+  }
+  
+  .position3 {
+      left: 97px;
+      top: 54px;
+      padding-top: 5px;
+      margin: auto;
+  }
+  .position4{
+    left: 149px;
+    top: 54px;
+    padding-top: 5px;
+    margin: auto;
+  }
+  .aboutsec{
+    width:700px;
+    margin: auto;
+  }
+  .ic{
+    height:25px;
+    width:25px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 3px;
+    position: absolute;
+    right: 88px;
+    top: 8px;
+  }
